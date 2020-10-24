@@ -27,9 +27,6 @@ Html {
   opacity: 0;
 }
 
-
-
-
 .min-nav {
     font-family: Hiragino Sans, sans-serif;
 }
@@ -54,6 +51,26 @@ Html {
 .lyserod-tekst{
     color: #EAC3E8;
 }
+
+.lyseblaa-tekst {
+    color: #CCF2FF;
+}
+
+h1, h2, h3, h4 {
+        font-family: Hiragino Sans, sans-serif;
+        text-transform: uppercase;
+}
+
+p, a {
+   font-family: Hiragino Sans, sans-serif;
+}
+
+a:hover{
+    color: #EAC3E8;
+}
+
+
+
 
 /*Hovereffekter*/
 
