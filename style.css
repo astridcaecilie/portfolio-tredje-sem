@@ -60,9 +60,19 @@ Html {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5{
     font-family: Hiragino Sans, sans-serif;
     text-transform: uppercase;
+}
+
+h5 {
+    font-size: small;
+}
+
+h5:hover{
+    color: #EAC3E8;
+
 }
 
 p,
